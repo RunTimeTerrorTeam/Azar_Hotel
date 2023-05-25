@@ -1,0 +1,55 @@
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.exe.config
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.exe
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.pdb
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.AssemblyReference.cache
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.Properties.Resources.resources
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.GenerateResource.cache
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.exe
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.pdb
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.SignInForm.resources
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.exe.licenses
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.CopyComplete
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.WaitForm.resources
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.MessageErrorForm.resources
+C:\Users\Saeed Ayman\source\repos\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.DashBoardForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.exe
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.exe.config
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Azar Hotel.pdb
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.AssemblyReference.cache
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.DeleteForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.DashBoardForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.MessageErrorForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.HomeForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.MainForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.WaitForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.SignInForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.Properties.Resources.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.GenerateResource.cache
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.exe.licenses
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.CoreCompileInputs.cache
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.csproj.CopyComplete
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.exe
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar Hotel.pdb
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.EditForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.WarningForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.AddClientForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.CorrectForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.AddRoomsForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.AddOrdersForm.resources
+D:\DB_Project_V0.0_Beta\Azar Hotel\Azar Hotel\obj\Debug\Azar_Hotel.AddEmployeeForm.resources
