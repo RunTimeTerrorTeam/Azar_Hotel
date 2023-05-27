@@ -111,8 +111,8 @@ CREATE TABLE ORDERS (
 	REFERENCES PRODUCTS(ID),
 	CONSTRAINT FK_ORDERS_EMP FOREIGN KEY(Employee_ID)
 	REFERENCES EMPLOYEES(ID),
-)
----------------------------------------------------------
+);
+/*---------------------------------------------------------*/
 CREATE VIEW VIEW_EMPLOYEE AS
 SELECT 
 	E.ID, E.National_ID, E.Name, E.Job, D.Name AS Department, E.Salary, E.Email, 
@@ -152,7 +152,7 @@ SELECT
 	G.Email,  G.PhoneNumber , G.Address, G.Birthdate, G.Total, G.Available
 FROM GUESTS AS G
 GO
-----------------------------------------------------------------------------------------
+/*----------------------------------------------------------------------------------------*/
 CREATE TRIGGER ORDERS_TR ON ORDERS instead of INSERT 
 AS
 DECLARE @PRODUCT INT = (SELECT Product_ID FROM inserted)
@@ -298,7 +298,7 @@ BEGIN TRAN
 	END	
 COMMIT TRAN
 GO
--------------------------------------------------------------------------------------
+/*-------------------------------------------------------------------------------------*/
 CREATE PROC ADD_EMPLOYEE 
 	@NATIONAL_ID	INT,
 	@NAME			NVARCHAR(MAX),
@@ -378,6 +378,6 @@ AS
 INSERT INTO DB_INFO(UserName, Password, Employee_ID) 
 VALUES	(@USERNAME, @PASSWORD, @EMP_ID) 
 GO
--------------------------------------------------------------------
+/*-------------------------------------------------------------------*/
 INSERT INTO EMPLOYEES(Name, Email) VALUES ('ADMIN', 'ADMIN')
 INSERT INTO DB_INFO(UserName, Password, EMPLOYEE_ID) VALUES ('ADMIN', 'ADMIN', (SELECT TOP 1 ID FROM EMPLOYEES))
